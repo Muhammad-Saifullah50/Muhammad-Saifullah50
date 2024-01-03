@@ -1,10 +1,10 @@
-# Welcome to the Coding Fiesta! 🎉
+# Welcome to Muhammad Saifullah's coding playground! 🎉
 
-Hey amazing folks! 🚀 I'm [Your Name], your friendly neighborhood entry-level Full Stack Developer, ready to embark on coding adventures and conquer new challenges. Whether you're here to peek into my coding escapades, collaborate on cool projects 🤝, or just soak up the coding vibes, you're in for a treat! 🌟
+Hey folks! 🚀 I'm Muhammad Saifullah, an entry-level Full Stack Developer, ready to embark on coding adventures and conquer new challenges. Whether you're here to peek into my coding escapades, or just soak up the coding vibes, you're in for a treat! 🌟
 
-## 🌈 Journey Highlights
+## 🌈 Featured Projects
 
-### Project 1: [Project Name]
+### Project 1: Travelling.com
 Step into the world of my first project – a blend of excitement, late-night coding sessions, and the joy of seeing an idea come to life! Discover the tech stack, quirky features, and the lessons learned along the way.
 
 ![Project 1 Snapshot](link/to/project1/image)
