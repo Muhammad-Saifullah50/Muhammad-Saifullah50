@@ -19,6 +19,4 @@ Explore my evolving portfolio by clicking on the image below
 [![portfolio](dev.png)](https://devsaif.vercel.app/)
 ## 💻 Excited to Connect!
 
-Feel free to explore or share your thoughts on any of my projects. If you're as passionate about tech as I am, let's chat on [Twitter](https://twitter.com/yourhandle) or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile).
-
-Cheers to coding brilliance and endless possibilities! 🌈🚀
+Feel free to explore or share your thoughts on any of my projects. If you're as passionate about tech , let's connect on [LinkedIn](https://www.linkedin.com/in/muhammad-saifullah-a5975a255/).🌈🚀
