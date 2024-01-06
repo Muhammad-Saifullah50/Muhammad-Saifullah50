@@ -16,7 +16,7 @@ In my coding toolkit, you'll find:
 ## 🌐 Dive into My Digital Universe
 
 Explore my evolving portfolio [here](https://yourportfolio.com) and witness the magical symphony of code. From experimental snippets to practical applications, it's a dynamic showcase of my coding journey.
-
+![portfolio](dev.png)
 ## 💻 Excited to Connect!
 
 Feel free to explore or share your thoughts on any of my projects. If you're as passionate about tech as I am, let's chat on [Twitter](https://twitter.com/yourhandle) or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile).
