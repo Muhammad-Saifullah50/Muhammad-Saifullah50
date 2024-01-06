@@ -1,5 +1,8 @@
-<div style="text-align: center;" markdown="1">Muhammad Saifullah</div>
-  # Full Stack Nextjs Developer 🎉
+<div style="text-align: center;">
+
+Muhammad Saifullah
+</div>
+# Full Stack Nextjs Developer 🎉
 
 Hey folks! 🚀 I'm Muhammad Saifullah, an entry-level Full Stack Developer, ready to embark on coding adventures and conquer new challenges. Whether you're here to peek into my coding escapades, or just soak up the coding vibes, you're in for a treat! 🌟
 
