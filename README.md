@@ -16,7 +16,7 @@ In my coding toolkit, you'll find:
 ## 🌐 Dive into My Digital Universe
 
 Explore my evolving portfolio by clicking on the image below  
-[![portfolio](dev.png)](https://devsaif.vercel.app/)
+[![portfolio](portfolio.png)](https://devsaif.vercel.app/)
 ## 💻 Excited to Connect!
 
 Feel free to explore or share your thoughts on any of my projects. If you're as passionate about tech , let's connect on [LinkedIn](https://www.linkedin.com/in/muhammad-saifullah-a5975a255/).🌈🚀
