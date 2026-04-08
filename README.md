@@ -1,7 +1,7 @@
 # <div align='center'>Muhammad Saifullah</div>
 # <div align='center'>🤖 Agentic AI Developer</div>
 
-Hey! I'm Saifullah — a CS student at SSUET and currently pursuing CAARE (Certified Agentic AI and Robotics Engineer) at PIAIC.
+Hey! I'm Saifullah — an AI student at SSUET and currently pursuing CAARE (Certified Agentic AI and Robotics Engineer) at PIAIC.
 
 For the past year I've been going deep into agentic AI — how these systems actually work, how to build them, and how to use them as part of my development workflow.
 
