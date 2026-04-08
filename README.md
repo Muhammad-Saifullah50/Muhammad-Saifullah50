@@ -38,4 +38,4 @@ AI-powered agentic and autonomous applications — PIAIC hackathon projects and 
 
 ## 🌐 Portfolio
 
-[![portfolio](portfolio.png)](https://devsaif.vercel.app/)
+[![portfolio](Screenshot 2026-04-08 095003.png)](https://devsaif.vercel.app/)
