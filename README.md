@@ -1,22 +1,38 @@
-# <div align='center'> Muhammad Saifullah</div>
-# <div align='center'>🚀 JAM Stack Next.js Developer 🎉 </div>
+# <div align='center'>Muhammad Saifullah</div>
+# <div align='center'>🤖 Agentic AI Developer</div>
 
-Hey there! 👋 I'm Muhammad Saifullah, a Full Stack Developer enthusiastic to build modern software 🌟.
+Hey! I'm Saifullah — a CS student at SSUET and currently pursuing CAARE (Certified Agentic AI and Robotics Engineer) at PIAIC.
 
-## 🛠️ Tech Toolbox
+For the past year I've been going deep into agentic AI — how these systems actually work, how to build them, and how to use them as part of my development workflow.
 
-In my coding toolkit, you'll find:
+## 🛠️ What I Work With
 
-- **Frontend:**<div align='center'>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) </div>
+**Agentic AI:**
+<div align='center'>
 
-- **Backend:** <div align='center'>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)</div>
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-4ECDC4?style=for-the-badge)
 
-- **Databases:** <div align='center'>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)</div>
+</div>
 
-## 🌐 Dive into My Digital Universe
+**Full Stack:**
+<div align='center'>
 
-Explore my evolving portfolio by clicking on the image below  
-[![portfolio](portfolio.png)](https://devsaif.vercel.app/)
-## 💻 Excited to Connect!
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Feel free to explore or share your thoughts on any of my projects. If you're as passionate about tech , let's connect on [LinkedIn](https://www.linkedin.com/in/muhammad-saifullah-a5975a255/).🌈🚀
+</div>
+
+## 🔨 Currently Building
+
+AI-powered agentic and autonomous applications — PIAIC hackathon projects and personal builds.
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saifullah-a5975a255/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devsaif.vercel.app/)
