@@ -1,5 +1,5 @@
 # <div align='center'>Muhammad Saifullah</div>
-# <div align='center'>🤖 Agentic AI Developer</div>
+# <div align='center'>🔮Agentic AI Developer</div>
 
 Hey! I'm Saifullah — an AI student at SSUET and currently pursuing CAARE (Certified Agentic AI and Robotics Engineer) at PIAIC.
 
