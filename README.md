@@ -35,4 +35,7 @@ AI-powered agentic and autonomous applications — PIAIC hackathon projects and 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saifullah-a5975a255/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devsaif.vercel.app/)
+
+## 🌐 Portfolio
+
+[![portfolio](portfolio.png)](https://devsaif.vercel.app/)
